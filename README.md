@@ -11,6 +11,8 @@ Created by Tyler Skalka
 
 # Programming Objectives
 
-This was a game designed by me to practice using programming with classes in C#, and to practice RayLib.
+This was a game designed by me to practice using programming with classes in C#, and to practice using the RayLib_cs library.
+
+https://www.raylib.com/
 
 
