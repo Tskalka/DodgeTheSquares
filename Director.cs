@@ -18,7 +18,6 @@ namespace RayLibPractice
         Enemy _enemy2 = new Enemy();
         Enemy _enemy3 = new Enemy();
         Enemy _enemy4 = new Enemy();
-
         Enemy _enemy5 = new Enemy();
 
         public void StartGame()
